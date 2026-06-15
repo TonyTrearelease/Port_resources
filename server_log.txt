@@ -1,0 +1,54 @@
+============================================================
+  港口可贸易资源 - 数据可视化报告系统
+============================================================
+  ✓ 数据加载成功: 345 条记录
+  ✓ 可用日期: 2026.05.29, 2026.06.05
+
+  🌐 启动可视化看板...
+  📊 访问地址: http://127.0.0.1:5000
+
+  ==================================================
+  可用页面:
+    /           - 总览看板
+    /trend      - 趋势分析
+    /cargo      - 货类分析
+    /supplier   - 供应商分析
+    /heatmap    - 热力图
+    /compare    - 数据对比
+    /anomaly    - 异常检测
+    /export     - 数据导出
+  ==================================================
+
+ * Serving Flask app 'visualization_app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 151-531-559
+ * Detected change in 'd:\\工作文档\\工作档案\\2026\\港口可贸易资源\\generate_html_report.py', reloading
+============================================================
+  港口可贸易资源 - 数据可视化报告系统
+============================================================
+  ✓ 数据加载成功: 345 条记录
+  ✓ 可用日期: 2026.05.29, 2026.06.05
+
+  🌐 启动可视化看板...
+  📊 访问地址: http://127.0.0.1:5000
+
+  ==================================================
+  可用页面:
+    /           - 总览看板
+    /trend      - 趋势分析
+    /cargo      - 货类分析
+    /supplier   - 供应商分析
+    /heatmap    - 热力图
+    /compare    - 数据对比
+    /anomaly    - 异常检测
+    /export     - 数据导出
+  ==================================================
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 151-531-559
