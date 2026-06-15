@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# 临时文件
+~$*
+*.tmp
+*.log
+
+# 生成的分析报告（可重新生成）
+clean_data/
+report_*.txt
+report_*.xlsx
+
+# 系统文件
+.DS_Store
+Thumbs.db
